@@ -139,9 +139,9 @@
 }
 
 .card-item:hover {
-	border: 10px solid #013a63;
+	border: 2px solid #013a63;
 	/* transform: translate(0, -10px); */
-	transition: 300ms;
+/* 	transition: 300ms; */
 }
 
 .card-image img {
